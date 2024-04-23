@@ -5,3 +5,6 @@ activated = st.toggle('Gay Mode')
 st.write('Hello sam')
 
 st.write('Daniels Änderung')
+
+
+st.write('Berkans Änderung')
