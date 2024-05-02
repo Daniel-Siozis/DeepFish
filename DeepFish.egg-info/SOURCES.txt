@@ -1,0 +1,7 @@
+README.md
+setup.py
+DeepFish.egg-info/PKG-INFO
+DeepFish.egg-info/SOURCES.txt
+DeepFish.egg-info/dependency_links.txt
+DeepFish.egg-info/requires.txt
+DeepFish.egg-info/top_level.txt
