@@ -1,5 +1,7 @@
 # DeepFish
 
+Muriz Ganic (it78iwat/23215741) Daniel Siozis (ha04giji/23171488) Berkan Türkel (yb57ogox/22833043) Samuel Arapoglu (/) 
+
 ## 1 Introduction
 
 ## 2 Related Work
