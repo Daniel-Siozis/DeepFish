@@ -11,7 +11,8 @@ Muriz Ganic (it78iwat/23215741), Daniel Siozis (ha04giji/23171488), Berkan Türk
 - Downloaded DeepFish dataset 
 - Cloned DeepFish GitHub repository
 - Researched other similar projects
-- Build a model architecture 
+- Build a model architecture
+- Wrote program to create broken images
 - Trained model
 - Deployed streamlit app
 
